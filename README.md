@@ -70,7 +70,7 @@ Theme Toggler is a lightweight Chrome extension that allows users to toggle betw
 
 \##  **GitHub Link**
 
-\[https://github.com/your-username/theme-toggler](#)
+\[https://github.com/parvathy22-1/theme-toggler/edit/main/README.md](#)
 
 
 
